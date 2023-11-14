@@ -7,7 +7,6 @@ import speech_recognition as sr
 from gtts import gTTS
 import os
 
-# OpenAI API anahtarını buraya gir
 
 
 def process_command(command):
