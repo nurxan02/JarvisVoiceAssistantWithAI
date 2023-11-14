@@ -1,8 +1,7 @@
 
-
 from openai import OpenAI
 
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='YOUR_API_KEY')
 import speech_recognition as sr
 from gtts import gTTS
 import os
